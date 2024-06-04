@@ -11,4 +11,4 @@ Regarding issue https://github.com/nvim-telescope/telescope-frecency.nvim/issues
 * Remove frecency as a dependency from the lazy list and restart nvim
 * neovim successfully detects background as light.
 
-I testet this in iTerm2 on MacOS but I don't think it is a terminal or OS related issue, since other plugins work fine.
+I tested this in iTerm2 on MacOS but I don't think it is a terminal or OS related issue, since other plugins work fine.
